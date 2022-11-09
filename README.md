@@ -15,7 +15,7 @@ Broadly speaking, I am interested in offensive cybersecurity and writing robust 
 - Compilers (optimizations, infrastructure)
 - Arithmetic circuits and zero-knowledge proofs
 
-- 📫 Reach out to me on Twitter: @pwang00, and check out my website to learn more about me: https://pwang00.github.io/
+- 📫 Reach out to me on Twitter: @0xFips, and check out my website to learn more about me: https://pwang00.github.io/
 ```
 <!---
 pwang00/pwang00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
