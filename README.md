@@ -5,11 +5,11 @@ Hi, I’m Philip--you can call me Fips.
 
 Here's what I currently find interesting:
 
-- Offensive cybersecurity
-- Cybersecurity-adjacent software engineering
-- Zero-knowledge proofs
-- Public-key cryptography
-- Compilers
+* Offensive cybersecurity
+* Zero-knowledge proofs
+* Public-key cryptography
+* Compilers
+* Defense technology
 
 - 📫 Reach out to me on Twitter: @gridfire, and check out my website to learn more about me: hidinginstatic.xyz
 ```
